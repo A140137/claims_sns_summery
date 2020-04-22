@@ -20,7 +20,7 @@ Components:
 * s3 Storage
 
 ## Diagram:
-<img src="./topic\ \(8\).png"
+<img src="./image1.png"
      alt=""
      style="margin-right: 10px;"/>
 
